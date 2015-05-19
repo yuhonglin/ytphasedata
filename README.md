@@ -10,16 +10,17 @@ This folder includes the datasets used in the following research,
 ## File Description
 All files are in python's [pickle](https://docs.python.org/2/library/pickle.html) format.
 
-1. ```videoID_category.pickle```
+### ```videoID_category.pickle```
    1. Data type : dictionary
    2. Key : videoIDs
    3. Value : category got from google API
-2. ```videoID_segInfo.pickle```
+
+##3 ```videoID_segInfo.pickle```
    1. Data type : dictionary
    2. Key : videoIDs
    3. Value : list of description of segments, following chronological order. For example, the value of video ```XXTey9OjuGc``` is ```[(0, 4, -0.373851, 2.98491, 48.4606, 1), (5, 734, 98.0916, -0.955789, 7.4257, 0)]```, this means the viewcount contains two segments. To see the parameter of each segment, please see this [readme](https://github.com/yuhonglin/segfit/blob/master/README.md) file on github.
 
-3. ```videoID_viewcount.pickle```
+### ```videoID_viewcount.pickle```
    1. Data type : dictionary
    2. Key : videoIDs
    3. Value : viewcount from first day of uploading. (containing 735 days)
