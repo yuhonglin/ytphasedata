@@ -15,6 +15,7 @@ All files are in python's [pickle](https://docs.python.org/2/library/pickle.html
    2. Key : videoIDs
    3. Value : category got from google API
 
+
 ### ```videoID_segInfo.pickle```
    1. Data type : dictionary
    2. Key : videoIDs
