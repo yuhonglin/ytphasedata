@@ -1,14 +1,14 @@
-# Dataset of YouTube videos history viewcount
+# Dataset + Code on YouTube popularity history
 
-This folder includes the datasets used in the following research,
+This folder includes the datasets used in the following paper,
 > *Honglin Yu, Lexing Xie and Scott Sanner, The Lifecycle of a Youtube Video: Phases, Content and Popularity, (ICWSM-15)*
 
 ## The link
   The data is hosted on [dropbox](https://www.dropbox.com/s/4af3646w8omhago/data_released.tar.bz2?dl=0).
 
 ## Source code
-1. If you want to segment viewcount yourself, please find our segmentation algorithm [here](https://github.com/yuhonglin/segfit)
-2. If you want to download data for your own, please look the our crawler [here](https://github.com/yuhonglin/YTCrawl)
+1. Algorithm for power-law phase segmentation [here](https://github.com/yuhonglin/segfit)
+2. YouTube history crawler [here](https://github.com/yuhonglin/YTCrawl)
 
 ## File Description
 All files are in python's [pickle](https://docs.python.org/2/library/pickle.html) format.
@@ -17,7 +17,6 @@ All files are in python's [pickle](https://docs.python.org/2/library/pickle.html
    1. Data type : dictionary
    2. Key : videoIDs
    3. Value : category got from google API
-
 
 ### ```videoID_segInfo.pickle```
    1. Data type : dictionary
