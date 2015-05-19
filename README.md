@@ -4,7 +4,7 @@ This folder includes the datasets used in the following research,
 > *Honglin Yu, Lexing Xie and Scott Sanner, The Lifecycle of a Youtube Video: Phases, Content and Popularity, (ICWSM-15)*
 
 ## The link
-1. The data is hosted on [dropbox](https://www.dropbox.com/s/4af3646w8omhago/data_released.tar.bz2?dl=0).
+  The data is hosted on [dropbox](https://www.dropbox.com/s/4af3646w8omhago/data_released.tar.bz2?dl=0).
 
 ## Source code
 1. If you want to segment viewcount yourself, please find our segmentation algorithm [here](https://github.com/yuhonglin/segfit)
