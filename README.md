@@ -1,7 +1,7 @@
 # Dataset + Code on YouTube popularity history
 
 This folder includes the datasets used in the following paper,
-> *Honglin Yu, Lexing Xie and Scott Sanner, The Lifecycle of a Youtube Video: Phases, Content and Popularity, (ICWSM-15)*
+> *Honglin Yu, Lexing Xie and Scott Sanner, The Lifecycle of a Youtube Video: Phases, Content and Popularity, (ICWSM-15) \[ [paper](http://users.cecs.anu.edu.au/~xlx/papers/icwsm15-phase.pdf) | [slides](http://users.cecs.anu.edu.au/~xlx/papers/icwsm15-slides.pdf) | [poster](http://users.cecs.anu.edu.au/~xlx/papers/icwsm15-poster.pdf)\]*
 
 ## The link
   The data is hosted on [dropbox](https://www.dropbox.com/s/4af3646w8omhago/data_released.tar.bz2?dl=0).
